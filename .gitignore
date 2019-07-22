@@ -1,0 +1,6 @@
+/.idea/*
+!/globalconsole/__pycache__/.*
+/logs/*
+!/logs/.*
+/venv/*
+
